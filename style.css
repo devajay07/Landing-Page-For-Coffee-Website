@@ -1,0 +1,155 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+}
+body{
+    width:100%;
+}
+.about-heading{
+    margin:3em auto 3em auto;
+    text-align: center;
+}
+.brown-color{
+    color:rgb(197, 149, 128);
+}
+.about-col-color{
+    background-color: #111219;
+}
+.about-container{
+    width:90%;
+    margin:auto;
+}
+body{
+    background-color: black;
+    padding-top: 80px;
+    color:white;
+}
+.bgcolor-dark{
+    background-color: black;
+}
+.btn-standard{
+    background-color: rgb(197, 149, 128);
+}
+.container-fluid{
+    border-bottom: 1px solid grey;
+    padding:0.8em 0.5em 0.8em 0.5em;
+}
+.carousel-item{
+    text-align: center;
+}
+.carousel-item img{
+    border-radius: 100%;
+}
+.fa-2x{
+    font-size: 1.2rem;
+}
+#home{
+    background: url(images/home-img.jpeg) no-repeat center;
+    background-size: cover;
+    width:100%;
+}
+.home-container{
+    font-family: 'Roboto', sans-serif;
+    padding:8em 4em 17em 4em;
+}
+.home-container h1{
+    font-size:3.3rem;
+    font-weight: bold;
+}
+.home-container p{
+    color:grey;
+}
+.home-container button:hover{
+    background-color: rgb(197, 149, 128);
+}
+.input-container{
+    text-align: center;
+    width:90%;
+    margin: auto;
+}
+.input-container input{
+    background-color: black;
+    border:1px solid grey;
+    display:block;
+    color: white;
+}
+.menu-heading{
+    text-align: center;
+    margin:3em auto 3em auto;
+}
+.menu-container{
+    width:88%;
+    margin:auto;
+    text-align: center;
+}
+.menu-item{
+    border:grey 1px solid;
+    padding:3em 1em 3em 1em;
+}
+.menu-btn{
+    padding:0.4em 2em 0.4em 2em;
+    background-color: rgb(197, 149, 128);
+    color: white;
+}
+.menu-border{
+    border:1px solid grey;
+    padding-top:2em;
+    margin: auto;
+}
+.menu-border:hover{
+    background-color: white;
+    color:black;
+}
+.menu-row{
+    margin: auto;
+}
+.nav-item a{
+    color:white;
+}
+.nav-item a:hover{
+    color:rgb(197, 149, 128);
+    
+}
+.navbar-brand{
+    color:#FFC600;
+    font-weight: bold;
+    font-family: 'Mochiy Pop P One', sans-serif;
+    margin-left:1em;
+}
+.prev-rate{
+    font-size: smaller;
+    font-weight: lighter;
+    text-decoration:line-through;
+}
+.product-heading{
+    text-align: center;
+    margin:3em auto 3em auto;
+
+}
+.product-container{
+    width:90%;
+    margin:auto;
+    text-align: center;
+}
+.product-border{
+    border:1px solid grey;
+    padding-top: 3em;
+    margin:auto;
+}
+#reviews{
+    width:80%;
+    margin: auto;
+}
+.small-border{
+    display:inline;
+    border:1px solid grey;
+    
+}
+.small-border:hover{
+    background-color: white;
+    color:rgb(197, 149, 128);
+}
+.white-color{
+    color:white;
+}
